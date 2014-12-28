@@ -3,7 +3,7 @@
  *
  * DO NOT EDIT UNLESS YOU ARE SURE THAT YOU KNOW WHAT YOU ARE DOING
  */
-#include "NoteStore_types.h"
+#include <evernote/NoteStore_types.h>
 
 namespace evernote { namespace edam {
 

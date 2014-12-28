@@ -11,8 +11,8 @@
 #include <protocol/TProtocol.h>
 #include <transport/TTransport.h>
 
-#include "Types_types.h"
-#include "Errors_types.h"
+#include <evernote/Types_types.h>
+#include <evernote/Errors_types.h>
 
 
 namespace evernote { namespace edam {

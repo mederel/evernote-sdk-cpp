@@ -6,7 +6,7 @@
 #ifndef NoteStore_CONSTANTS_H
 #define NoteStore_CONSTANTS_H
 
-#include "NoteStore_types.h"
+#include <evernote/NoteStore_types.h>
 
 namespace evernote { namespace edam {
 

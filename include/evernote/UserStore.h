@@ -7,7 +7,7 @@
 #define UserStore_H
 
 #include <TProcessor.h>
-#include "UserStore_types.h"
+#include <evernote/UserStore_types.h>
 
 namespace evernote { namespace edam {
 

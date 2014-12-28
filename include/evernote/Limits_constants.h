@@ -6,7 +6,7 @@
 #ifndef Limits_CONSTANTS_H
 #define Limits_CONSTANTS_H
 
-#include "Limits_types.h"
+#include <evernote/Limits_types.h>
 
 namespace evernote { namespace limits {
 

@@ -6,7 +6,7 @@
 #ifndef UserStore_CONSTANTS_H
 #define UserStore_CONSTANTS_H
 
-#include "UserStore_types.h"
+#include <evernote/UserStore_types.h>
 
 namespace evernote { namespace edam {
 

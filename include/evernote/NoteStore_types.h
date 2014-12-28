@@ -11,10 +11,10 @@
 #include <protocol/TProtocol.h>
 #include <transport/TTransport.h>
 
-#include "UserStore_types.h"
-#include "Types_types.h"
-#include "Errors_types.h"
-#include "Limits_types.h"
+#include <evernote/UserStore_types.h>
+#include <evernote/Types_types.h>
+#include <evernote/Errors_types.h>
+#include <evernote/Limits_types.h>
 
 
 namespace evernote { namespace edam {

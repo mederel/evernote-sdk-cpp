@@ -6,7 +6,7 @@
 #ifndef Types_CONSTANTS_H
 #define Types_CONSTANTS_H
 
-#include "Types_types.h"
+#include <evernote/Types_types.h>
 
 namespace evernote { namespace edam {
 

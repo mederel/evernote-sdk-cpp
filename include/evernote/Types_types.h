@@ -11,7 +11,7 @@
 #include <protocol/TProtocol.h>
 #include <transport/TTransport.h>
 
-#include "Limits_types.h"
+#include <evernote/Limits_types.h>
 
 
 namespace evernote { namespace edam {

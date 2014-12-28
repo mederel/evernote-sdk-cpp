@@ -6,7 +6,7 @@
 #ifndef Errors_CONSTANTS_H
 #define Errors_CONSTANTS_H
 
-#include "Errors_types.h"
+#include <evernote/Errors_types.h>
 
 namespace evernote { namespace edam {
 

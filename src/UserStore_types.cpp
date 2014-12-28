@@ -3,7 +3,7 @@
  *
  * DO NOT EDIT UNLESS YOU ARE SURE THAT YOU KNOW WHAT YOU ARE DOING
  */
-#include "UserStore_types.h"
+#include <evernote/UserStore_types.h>
 
 namespace evernote { namespace edam {
 
