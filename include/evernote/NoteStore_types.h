@@ -6,10 +6,10 @@
 #ifndef NoteStore_TYPES_H
 #define NoteStore_TYPES_H
 
-#include <Thrift.h>
-#include <TApplicationException.h>
-#include <protocol/TProtocol.h>
-#include <transport/TTransport.h>
+#include <thrift/Thrift.h>
+#include <thrift/TApplicationException.h>
+#include <thrift/protocol/TProtocol.h>
+#include <thrift/transport/TTransport.h>
 
 #include <evernote/UserStore_types.h>
 #include <evernote/Types_types.h>

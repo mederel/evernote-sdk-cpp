@@ -6,7 +6,7 @@
 #ifndef NoteStore_H
 #define NoteStore_H
 
-#include <TProcessor.h>
+#include <thrift/TProcessor.h>
 #include <evernote/NoteStore_types.h>
 
 namespace evernote { namespace edam {

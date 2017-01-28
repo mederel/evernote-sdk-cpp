@@ -6,7 +6,7 @@
 #ifndef UserStore_H
 #define UserStore_H
 
-#include <TProcessor.h>
+#include <thrift/TProcessor.h>
 #include <evernote/UserStore_types.h>
 
 namespace evernote { namespace edam {
